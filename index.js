@@ -20,7 +20,7 @@ isPalindrome("noon")
   split the characters
   reverse the string 
   join the string
-  return true
+  return value should be true
 */
 
 /*
